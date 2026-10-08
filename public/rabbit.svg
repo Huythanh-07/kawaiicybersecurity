@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="64" height="64" role="img" aria-label="Thỏ Thám Tử">
+  <title>Thỏ Thám Tử — CyberScam Kawaii</title>
+  <rect width="120" height="120" rx="28" fill="#FFFFFF" />
+  <g transform="translate(3 2) scale(0.95)" fill="#FFFFFF" stroke="#111111" stroke-width="4.6" stroke-linejoin="round">
+    <!-- 🦶 Bàn chân -->
+    <rect x="45" y="103" width="13" height="9.5" rx="4.7" />
+    <rect x="62" y="103" width="13" height="9.5" rx="4.7" />
+    <!-- 👗 Váy xanh -->
+    <path
+      d="M76 71.5 C82.5 76 86 90 88.5 99.5 C89.5 103 88 105.5 84.5 106 C75 108 45 108 35.5 106 C32 105.5 30.5 103 31.5 99.5 C34 90 37.5 76 44 71.5 Q60 66.5 76 71.5 Z"
+      fill="#0A5C9E"
+    />
+    <!-- 🖐️ Hai tay -->
+    <rect x="28.5" y="91" width="11" height="12.5" rx="5" />
+    <rect x="80.5" y="91" width="11" height="12.5" rx="5" />
+    <!-- 🐰 Đầu + hai tai dài: MỘT đường viền liền mạch -->
+    <path
+      d="M44.5 40 C39.5 33 39.5 19 44 13.5 C45.8 10.5 49.5 10.2 51.3 13.2 C54.5 18.5 55.4 30 55 38.5 Q60 44 65 38.5 C64.6 30 65.5 18.5 68.7 13.2 C70.5 10.2 74.2 10.5 76 13.5 C80.5 19 80.5 33 75.5 40 C80.5 44.5 82.5 50 82.5 57 C82.5 66.5 72.5 77 60 77 C47.5 77 37.5 66.5 37.5 57 C37.5 50 39.5 44.5 44.5 40 Z"
+    />
+    <!-- 👀 Mắt chấm tròn -->
+    <circle cx="48.5" cy="58" r="3.3" fill="#111111" stroke="none" />
+    <circle cx="71.5" cy="58" r="3.3" fill="#111111" stroke="none" />
+    <!-- 👄 Miệng chữ X -->
+    <g fill="none" stroke-width="3.4" stroke-linecap="round">
+      <path d="M56.6 64.6 L63.4 71.4" />
+      <path d="M63.4 64.6 L56.6 71.4" />
+    </g>
+  </g>
+</svg>
